@@ -1,0 +1,1155 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Casablanca",
+      "country": "Morocco",
+      "description": "Morocco's largest city, Casablanca is a bustling metropolis with a rich history and culture. Explore the Hassan II Mosque, one of the largest mosques in the world, or stroll along the scenic Corniche beachfront promenade. Foodies can indulge in fresh seafood and traditional Moroccan tagines.",
+      "address": "Central-western Morocco",
+      "video": "assets/images/anfapark.mp4",
+      "images": [
+        "assets/images/casa1.jpg",
+        "assets/images/casa2.jpg",
+        "assets/images/casa3.jpg",
+        "assets/images/casa4.jpg"
+      ],
+      "coordinates": {
+        "lat": 33.5736,
+        "lon": -7.6111
+      },
+      "isFavourite": false,
+      "thingstodo": [
+        {
+          "id": 1,
+          "title": "Hassan II Mosque",
+          "country": "Morocco",
+          "address": "Boulevard de la Corniche",
+          "description": "The Hassan II Mosque is the largest mosque in Africa and the 7th largest in the world. It has the tallest minaret in the world.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.6078,
+            "lon": -7.6325
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Old Medina of Casablanca",
+          "country": "Morocco",
+          "address": "Rue Jaber Ben Hayane",
+          "description": "The Old Medina is a historic walled city full of narrow streets, local markets, and traditional Moroccan architecture.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.6078,
+            "lon": -7.6325
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Ain Diab Corniche",
+          "country": "Morocco",
+          "address": "Boulevard de l’Océan Atlantique",
+          "description": "Ain Diab is a popular beachfront district with vibrant nightlife, cafes, and restaurants offering ocean views.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.6078,
+            "lon": -7.6325
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 4,
+          "title": "Morocco Mall",
+          "country": "Morocco",
+          "address": "Boulevard de Biarritz",
+          "description": "One of the largest shopping centers in Africa, Morocco Mall features a variety of international brands, an aquarium, and an ice-skating rink.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.6078,
+            "lon": -7.6325
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 5,
+          "title": "Royal Palace of Casablanca",
+          "country": "Morocco",
+          "address": "Quartier Habbous",
+          "description": "The Royal Palace is an impressive architectural landmark located in the Habbous district, known for its beautiful gardens and intricate design.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.6078,
+            "lon": -7.6325
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 6,
+          "title": "Casablanca Twin Center",
+          "country": "Morocco",
+          "address": "Twin Center, Boulevard Zerktouni",
+          "description": "The Twin Center is a pair of skyscrapers located in the Maarif district, housing offices, shops, and a hotel, offering panoramic views of the city.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.6078,
+            "lon": -7.6325
+          },
+          "isFavourite": false
+        }
+      ],
+      "restaurants": [
+        {
+          "id": 1,
+          "title": "Rick's Cafe",
+          "country": "Morocco",
+          "address": "248 Boulevard Sour Jdid",
+          "description": "A famous restaurant inspired by the classic film 'Casablanca', offering a mix of Moroccan and international cuisine.",
+          "video": "assets/images/cafe.mp4",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.5974,
+            "lon": -7.6101
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "La Sqala",
+          "country": "Morocco",
+          "address": "Boulevard des Almohades",
+          "description": "A charming restaurant set in an old fort, serving traditional Moroccan dishes.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.5996,
+            "lon": -7.6141
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Le Cabestan",
+          "country": "Morocco",
+          "address": "Boulevard de la Corniche",
+          "description": "A trendy restaurant offering seafood and Mediterranean cuisine with stunning ocean views.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.6002,
+            "lon": -7.6414
+          },
+          "isFavourite": false
+        }
+      ],
+      "hotels": [
+        {
+          "id": 1,
+          "title": "Four Seasons Hotel Casablanca",
+          "country": "Morocco",
+          "address": "Boulevard de la Corniche",
+          "description": "A luxurious hotel offering stunning ocean views, a spa, and fine dining.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.6044,
+            "lon": -7.6342
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Hyatt Regency Casablanca",
+          "country": "Morocco",
+          "address": "Place des Nations Unies",
+          "description": "A five-star hotel located in the city center, featuring elegant rooms and top-notch amenities.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.5945,
+            "lon": -7.6171
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Kenzi Tower Hotel",
+          "country": "Morocco",
+          "address": "Boulevard Zerktouni",
+          "description": "A modern hotel housed in one of the Twin Center towers, offering panoramic city views.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.5885,
+            "lon": -7.6257
+          },
+          "isFavourite": false
+        }
+      ],
+      "craftstores": [
+        {
+          "id": 1,
+          "title": "Artisana Casablanca",
+          "country": "Morocco",
+          "address": "Rue Allal Ben Abdellah",
+          "description": "A craft store offering a wide range of traditional Moroccan handicrafts, including pottery, textiles, and jewelry.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.5976,
+            "lon": -7.6183
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Moroccan Craft Center",
+          "country": "Morocco",
+          "address": "Boulevard de la Resistance",
+          "description": "A popular store where you can find unique handmade items from local artisans.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.5927,
+            "lon": -7.6139
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Le Socco de Casablanca",
+          "country": "Morocco",
+          "address": "Place Mohamed V",
+          "description": "A marketplace featuring a variety of crafts, including leather goods, carpets, and traditional clothing.",
+          "images": ["assets/images/casa1.jpg", "assets/images/casa2.jpg"],
+          "coordinates": {
+            "lat": 33.5944,
+            "lon": -7.6128
+          },
+          "isFavourite": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Agadir",
+      "country": "Morocco",
+      "description": "A popular beach resort town on Morocco's southern Atlantic coast, Agadir offers stunning beaches, world-class surfing, and a relaxed atmosphere. Hike to the Kasbah ruins for panoramic views, explore the bustling Souk El Had market, or relax on the golden sands of Agadir Beach.",
+      "address": "Southwestern Morocco",
+      "images": [
+        "assets/images/agadir1.jpg",
+        "assets/images/agadir2.jpg",
+        "assets/images/agadir3.jpg",
+        "assets/images/agadir4.jpg"
+      ],
+      "coordinates": {
+        "lat": 30.4283,
+        "lon": -9.6
+      },
+      "isFavourite": false,
+      "thingstodo": [
+        {
+          "id": 1,
+          "title": "Agadir Beach",
+          "country": "Morocco",
+          "address": "Agadir",
+          "description": "A long stretch of golden sands perfect for sunbathing, swimming, and water sports.",
+          "images": ["assets/images/agadir1.jpg", "assets/images/agadir2.jpg"],
+          "coordinates": {
+            "lat": 30.4245,
+            "lon": -9.5981
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Agadir Oufella Ruins",
+          "country": "Morocco",
+          "address": "Casbah Hill",
+          "description": "Ruins of an old fortress offering panoramic views of Agadir and the Atlantic Ocean.",
+          "images": ["assets/images/agadir3.jpg", "assets/images/agadir4.jpg"],
+          "coordinates": {
+            "lat": 30.4397,
+            "lon": -9.6161
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Souk El Had",
+          "country": "Morocco",
+          "address": "Rue 2 Mars",
+          "description": "One of the largest markets in Morocco, offering a wide range of goods from fresh produce to traditional crafts.",
+          "images": ["assets/images/agadir1.jpg", "assets/images/agadir2.jpg"],
+          "coordinates": {
+            "lat": 30.4067,
+            "lon": -9.5857
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 4,
+          "title": "Agadir Crocodile Park",
+          "country": "Morocco",
+          "address": "Route National 8",
+          "description": "A unique park featuring various species of crocodiles and exotic plants.",
+          "images": ["assets/images/agadir3.jpg", "assets/images/agadir4.jpg"],
+          "coordinates": {
+            "lat": 30.3314,
+            "lon": -9.5225
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 5,
+          "title": "Vallee des Oiseaux",
+          "country": "Morocco",
+          "address": "Boulevard Hassan II",
+          "description": "A small zoo and park in the heart of Agadir, home to a variety of birds and small mammals.",
+          "images": ["assets/images/agadir1.jpg", "assets/images/agadir2.jpg"],
+          "coordinates": {
+            "lat": 30.4228,
+            "lon": -9.5983
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 6,
+          "title": "Marina Agadir",
+          "country": "Morocco",
+          "address": "Avenue du Port",
+          "description": "A modern marina with shops, restaurants, and a lovely promenade along the water.",
+          "images": ["assets/images/agadir3.jpg", "assets/images/agadir4.jpg"],
+          "coordinates": {
+            "lat": 30.4267,
+            "lon": -9.6259
+          },
+          "isFavourite": false
+        }
+      ],
+      "restaurants": [
+        {
+          "id": 1,
+          "title": "Pure Passion Restaurant",
+          "country": "Morocco",
+          "address": "Complexe Touristique de la Marina",
+          "description": "A popular restaurant offering international cuisine with beautiful views of the marina.",
+          "images": ["assets/images/agadir1.jpg", "assets/images/agadir2.jpg"],
+          "coordinates": {
+            "lat": 30.4275,
+            "lon": -9.6245
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Le Jardin d'Eau",
+          "country": "Morocco",
+          "address": "Boulevard 20 Août",
+          "description": "A cozy restaurant with a garden setting, serving a mix of Moroccan and French dishes.",
+          "images": ["assets/images/agadir3.jpg", "assets/images/agadir4.jpg"],
+          "coordinates": {
+            "lat": 30.4179,
+            "lon": -9.6057
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "La Scala",
+          "country": "Morocco",
+          "address": "Boulevard de la Corniche",
+          "description": "A fine dining restaurant known for its seafood and elegant atmosphere.",
+          "images": ["assets/images/agadir1.jpg", "assets/images/agadir2.jpg"],
+          "coordinates": {
+            "lat": 30.4155,
+            "lon": -9.5979
+          },
+          "isFavourite": false
+        }
+      ],
+      "hotels": [
+        {
+          "id": 1,
+          "title": "Sofitel Agadir Royal Bay Resort",
+          "country": "Morocco",
+          "address": "Baie des Palmiers",
+          "description": "A luxurious beachfront resort with Moroccan architecture, a spa, and several dining options.",
+          "images": ["assets/images/agadir1.jpg", "assets/images/agadir2.jpg"],
+          "coordinates": {
+            "lat": 30.3763,
+            "lon": -9.5939
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Riu Palace Tikida Agadir",
+          "country": "Morocco",
+          "address": "Chemin des Dunes",
+          "description": "An all-inclusive resort offering a variety of amenities, including pools, restaurants, and entertainment.",
+          "images": ["assets/images/agadir1.jpg", "assets/images/agadir2.jpg"],
+          "coordinates": {
+            "lat": 30.4067,
+            "lon": -9.5984
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Royal Atlas & Spa",
+          "country": "Morocco",
+          "address": "Avenue 20 Août",
+          "description": "A stylish hotel located near the beach, featuring a spa, multiple restaurants, and a large pool.",
+          "images": ["assets/images/agadir1.jpg", "assets/images/agadir2.jpg"],
+          "coordinates": {
+            "lat": 30.4165,
+            "lon": -9.5987
+          },
+          "isFavourite": false
+        }
+      ],
+      "craftstores": [
+        {
+          "id": 1,
+          "title": "Ensemble Artisanal",
+          "country": "Morocco",
+          "address": "Avenue des FAR",
+          "description": "A cooperative of local artisans offering traditional Moroccan crafts, including pottery, carpets, and jewelry.",
+          "images": ["assets/images/agadir1.jpg", "assets/images/agadir2.jpg"],
+          "coordinates": {
+            "lat": 30.4238,
+            "lon": -9.5965
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Tifnit Artisanal Cooperative",
+          "country": "Morocco",
+          "address": "Route de Tifnit",
+          "description": "A craft store featuring handmade items from the nearby village of Tifnit, known for its weaving and pottery.",
+          "images": ["assets/images/agadir1.jpg", "assets/images/agadir2.jpg"],
+          "coordinates": {
+            "lat": 30.2989,
+            "lon": -9.5947
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Kasbat Souss",
+          "country": "Morocco",
+          "address": "Avenue Moulay Youssef",
+          "description": "A cultural center and craft market where visitors can watch artisans at work and purchase unique handmade goods.",
+          "images": ["assets/images/agadir1.jpg", "assets/images/agadir2.jpg"],
+          "coordinates": {
+            "lat": 30.4208,
+            "lon": -9.6076
+          },
+          "isFavourite": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Marrakech",
+      "country": "Morocco",
+      "description": "Known as the 'Red City', Marrakech is famous for its vibrant souks, stunning palaces, and beautiful gardens. Visit the bustling Jemaa el-Fnaa square, explore the historic Medina, or relax in the serene Majorelle Garden.",
+      "address": "Central Morocco",
+      "images": [
+        "assets/images/marak1.jpg",
+        "assets/images/marak2.jpg",
+        "assets/images/marak3.jpg",
+        "assets/images/marak4.jpg"
+      ],
+      "coordinates": {
+        "lat": 31.6295,
+        "lon": -7.9811
+      },
+      "isFavourite": false,
+      "thingstodo": [
+        {
+          "id": 1,
+          "title": "Jemaa el-Fnaa",
+          "country": "Morocco",
+          "address": "Medina",
+          "description": "The main square of Marrakech, Jemaa el-Fnaa is a vibrant marketplace filled with food stalls, entertainers, and artisans.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6258,
+            "lon": -7.9894
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Koutoubia Mosque",
+          "country": "Morocco",
+          "address": "Avenue Mohammed V",
+          "description": "The largest mosque in Marrakech, known for its stunning minaret that dominates the city's skyline.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6248,
+            "lon": -7.9931
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Majorelle Garden",
+          "country": "Morocco",
+          "address": "Rue Yves Saint Laurent",
+          "description": "A beautiful garden designed by French painter Jacques Majorelle, featuring exotic plants and vibrant blue buildings.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6424,
+            "lon": -8.0023
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 4,
+          "title": "Saadian Tombs",
+          "country": "Morocco",
+          "address": "Rue de la Kasbah",
+          "description": "A historic royal necropolis with beautifully decorated tombs dating back to the Saadian dynasty.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6163,
+            "lon": -7.9884
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 5,
+          "title": "Bahia Palace",
+          "country": "Morocco",
+          "address": "Rue Riad Zitoun el Jdid",
+          "description": "A stunning 19th-century palace with lavish gardens, intricate architecture, and beautifully decorated rooms.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6217,
+            "lon": -7.9853
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 6,
+          "title": "Marrakech Souks",
+          "country": "Morocco",
+          "address": "Medina",
+          "description": "A maze of vibrant markets selling everything from spices and textiles to jewelry and ceramics.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6315,
+            "lon": -7.9858
+          },
+          "isFavourite": false
+        }
+      ],
+      "restaurants": [
+        {
+          "id": 1,
+          "title": "Le Jardin",
+          "country": "Morocco",
+          "address": "32 Souk Jeld Sidi Abdelaziz",
+          "description": "A charming restaurant set in a lush garden, offering traditional Moroccan and international cuisine.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6343,
+            "lon": -7.9892
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Nomad",
+          "country": "Morocco",
+          "address": "1 Derb Aarjane",
+          "description": "A trendy rooftop restaurant serving modern Moroccan dishes with panoramic views of the Medina.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6298,
+            "lon": -7.9839
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Al Fassia",
+          "country": "Morocco",
+          "address": "55 Boulevard Mohamed Zerktouni",
+          "description": "A renowned restaurant run by women, offering delicious Moroccan cuisine in a traditional setting.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6423,
+            "lon": -8.0188
+          },
+          "isFavourite": false
+        }
+      ],
+      "hotels": [
+        {
+          "id": 1,
+          "title": "La Mamounia",
+          "country": "Morocco",
+          "address": "Avenue Bab Jdid",
+          "description": "An iconic luxury hotel with beautiful gardens, a spa, and opulent rooms.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6217,
+            "lon": -7.9983
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Royal Mansour Marrakech",
+          "country": "Morocco",
+          "address": "Rue Abou Abbas El Sebti",
+          "description": "A lavish hotel offering private riads, fine dining, and exceptional service.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6248,
+            "lon": -7.9965
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Mandarin Oriental, Marrakech",
+          "country": "Morocco",
+          "address": "Route du Golf Royal",
+          "description": "A luxurious resort featuring elegant villas, a spa, and exquisite dining options.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6076,
+            "lon": -7.9647
+          },
+          "isFavourite": false
+        }
+      ],
+      "craftstores": [
+        {
+          "id": 1,
+          "title": "Heritage Berbere",
+          "country": "Morocco",
+          "address": "Rue de la Liberté",
+          "description": "A craft store specializing in traditional Berber rugs and textiles, handmade by local artisans.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6278,
+            "lon": -7.9902
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Mustapha Blaoui",
+          "country": "Morocco",
+          "address": "142-144 Arset Aouzal",
+          "description": "A hidden gem offering a wide range of Moroccan crafts, including ceramics, furniture, and jewelry.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6324,
+            "lon": -7.9943
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Ensemble Artisanal",
+          "country": "Morocco",
+          "address": "Avenue Mohammed V",
+          "description": "A government-run complex where visitors can watch artisans at work and buy authentic Moroccan crafts.",
+          "images": ["assets/images/marak1.jpg", "assets/images/marak2.jpg"],
+          "coordinates": {
+            "lat": 31.6273,
+            "lon": -7.9989
+          },
+          "isFavourite": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Tangier",
+      "country": "Morocco",
+      "description": "A vibrant port city located at the crossroads of Europe and Africa, Tangier boasts a rich history and a unique blend of cultures. Explore the medina, visit the famous Kasbah, or relax on the beautiful beaches.",
+      "address": "Northern Morocco",
+      "images": [
+        "assets/images/tangier1.jpg",
+        "assets/images/tangier2.jpg",
+        "assets/images/tangier3.jpg",
+        "assets/images/tangier4.jpg"
+      ],
+      "coordinates": {
+        "lat": 35.7595,
+        "lon": -5.8339
+      },
+      "isFavourite": false,
+      "thingstodo": [
+        {
+          "id": 1,
+          "title": "Medina of Tangier",
+          "country": "Morocco",
+          "address": "Tangier",
+          "description": "A historic area filled with narrow alleys, vibrant markets, and traditional Moroccan architecture.",
+          "images": [
+            "assets/images/tangier1.jpg",
+            "assets/images/tangier2.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7802,
+            "lon": -5.8137
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Kasbah Museum",
+          "country": "Morocco",
+          "address": "Place de la Kasbah",
+          "description": "A museum showcasing the history and culture of Tangier, housed in a former sultan's palace.",
+          "images": [
+            "assets/images/tangier3.jpg",
+            "assets/images/tangier4.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7828,
+            "lon": -5.8126
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Caves of Hercules",
+          "country": "Morocco",
+          "address": "Cap Spartel",
+          "description": "A famous archaeological site featuring caves with mythical significance and stunning coastal views.",
+          "images": [
+            "assets/images/tangier1.jpg",
+            "assets/images/tangier2.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7673,
+            "lon": -5.9369
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 4,
+          "title": "Tangier American Legation Museum",
+          "country": "Morocco",
+          "address": "8 Rue d'Amérique",
+          "description": "A museum dedicated to the history of the American-Moroccan relationship, located in the medina.",
+          "images": [
+            "assets/images/tangier3.jpg",
+            "assets/images/tangier4.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7768,
+            "lon": -5.8103
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 5,
+          "title": "Cap Spartel",
+          "country": "Morocco",
+          "address": "Tangier",
+          "description": "A scenic promontory offering panoramic views of the Atlantic Ocean and the Mediterranean Sea.",
+          "images": [
+            "assets/images/tangier1.jpg",
+            "assets/images/tangier2.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7675,
+            "lon": -5.9364
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 6,
+          "title": "Tangier Beach",
+          "country": "Morocco",
+          "address": "Tangier",
+          "description": "A popular beach destination perfect for swimming, sunbathing, and enjoying water sports.",
+          "images": [
+            "assets/images/tangier3.jpg",
+            "assets/images/tangier4.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7852,
+            "lon": -5.7996
+          },
+          "isFavourite": false
+        }
+      ],
+      "restaurants": [
+        {
+          "id": 1,
+          "title": "Restaurant La Fabrique",
+          "country": "Morocco",
+          "address": "Place du 9 Avril",
+          "description": "A trendy restaurant offering French-Moroccan fusion cuisine in a stylish setting.",
+          "images": [
+            "assets/images/tangier1.jpg",
+            "assets/images/tangier2.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7765,
+            "lon": -5.8125
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Le Saveur du Poisson",
+          "country": "Morocco",
+          "address": "2 Escalier Waller",
+          "description": "A popular seafood restaurant known for its fresh fish dishes and traditional Moroccan flavors.",
+          "images": [
+            "assets/images/tangier3.jpg",
+            "assets/images/tangier4.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7753,
+            "lon": -5.8102
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "El Morocco Club",
+          "country": "Morocco",
+          "address": "Place du Tabor",
+          "description": "An upscale restaurant and bar offering gourmet Moroccan cuisine and live music.",
+          "images": [
+            "assets/images/tangier1.jpg",
+            "assets/images/tangier2.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7831,
+            "lon": -5.812
+          },
+          "isFavourite": false
+        }
+      ],
+      "hotels": [
+        {
+          "id": 1,
+          "title": "Hotel Farah Tanger",
+          "country": "Morocco",
+          "address": "Baie de Tanger",
+          "description": "A luxurious hotel with stunning views of the bay, offering a spa, pool, and fine dining.",
+          "images": [
+            "assets/images/tangier1.jpg",
+            "assets/images/tangier2.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7603,
+            "lon": -5.8083
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Movenpick Hotel & Casino Malabata Tanger",
+          "country": "Morocco",
+          "address": "Route de Malabata",
+          "description": "An elegant hotel featuring a casino, multiple restaurants, and a large outdoor pool.",
+          "images": [
+            "assets/images/tangier1.jpg",
+            "assets/images/tangier2.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7795,
+            "lon": -5.7562
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "La Maison Blanche",
+          "country": "Morocco",
+          "address": "Rue Ibn Rochd",
+          "description": "A charming boutique hotel offering personalized service and stylish accommodations.",
+          "images": [
+            "assets/images/tangier1.jpg",
+            "assets/images/tangier2.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7793,
+            "lon": -5.8191
+          },
+          "isFavourite": false
+        }
+      ],
+      "craftstores": [
+        {
+          "id": 1,
+          "title": "Galerie Tindouf",
+          "country": "Morocco",
+          "address": "Rue de la Liberté",
+          "description": "A craft store showcasing traditional Moroccan art, including pottery, textiles, and jewelry.",
+          "images": [
+            "assets/images/tangier1.jpg",
+            "assets/images/tangier2.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7776,
+            "lon": -5.8094
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Cooperative Artisanale des Femmes",
+          "country": "Morocco",
+          "address": "Avenue Hassan II",
+          "description": "A cooperative offering handmade goods by local women artisans, such as rugs, clothing, and ceramics.",
+          "images": [
+            "assets/images/tangier1.jpg",
+            "assets/images/tangier2.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7805,
+            "lon": -5.8089
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Art et Deco",
+          "country": "Morocco",
+          "address": "Rue Mohamed Bergach",
+          "description": "A store offering a variety of Moroccan crafts, including furniture, lamps, and decorative items.",
+          "images": [
+            "assets/images/tangier1.jpg",
+            "assets/images/tangier2.jpg"
+          ],
+          "coordinates": {
+            "lat": 35.7798,
+            "lon": -5.8111
+          },
+          "isFavourite": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Ouarzazate",
+      "country": "Morocco",
+      "description": "Known as the 'Gateway to the Sahara', Ouarzazate is famous for its stunning desert landscapes and historic kasbahs. Visit the iconic Ait Ben Haddou, explore the Atlas Film Studios, or experience a desert safari.",
+      "address": "Southern Morocco",
+      "images": [
+        "assets/images/ouarza1.jpg",
+        "assets/images/ouarza2.jpg",
+        "assets/images/ouarza3.jpg"
+      ],
+      "coordinates": {
+        "lat": 30.9335,
+        "lon": -6.937
+      },
+      "isFavourite": false,
+      "thingstodo": [
+        {
+          "id": 1,
+          "title": "Ait Ben Haddou",
+          "country": "Morocco",
+          "address": "Ait Ben Haddou",
+          "description": "A UNESCO World Heritage site, this ancient ksar is a must-see with its stunning clay architecture and historical significance.",
+          "images": ["assets/images/ouarza1.jpg", "assets/images/ouarza2.jpg"],
+          "coordinates": {
+            "lat": 31.047,
+            "lon": -7.129
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Atlas Film Studios",
+          "country": "Morocco",
+          "address": "Km 5, Route de Marrakech",
+          "description": "The largest film studio in the world by land area, known for its use in numerous famous movies and TV shows.",
+          "images": ["assets/images/ouarza3.jpg", "assets/images/ouarza1.jpg"],
+          "coordinates": {
+            "lat": 30.9476,
+            "lon": -6.9094
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Taourirt Kasbah",
+          "country": "Morocco",
+          "address": "Avenue Mohammed V",
+          "description": "A historic fortress featuring traditional Berber architecture, located in the heart of Ouarzazate.",
+          "images": ["assets/images/ouarza1.jpg", "assets/images/ouarza2.jpg"],
+          "coordinates": {
+            "lat": 30.9189,
+            "lon": -6.9094
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 4,
+          "title": "Fint Oasis",
+          "country": "Morocco",
+          "address": "Fint",
+          "description": "A picturesque oasis located just outside Ouarzazate, perfect for a relaxing day trip.",
+          "images": ["assets/images/ouarza3.jpg", "assets/images/ouarza1.jpg"],
+          "coordinates": {
+            "lat": 30.8044,
+            "lon": -6.8737
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 5,
+          "title": "Desert Safari",
+          "country": "Morocco",
+          "address": "Ouarzazate",
+          "description": "Experience the Sahara Desert with a guided safari, including camel rides, sandboarding, and camping under the stars.",
+          "images": ["assets/images/ouarza1.jpg", "assets/images/ouarza2.jpg"],
+          "coordinates": {
+            "lat": 30.9335,
+            "lon": -6.937
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 6,
+          "title": "Skoura",
+          "country": "Morocco",
+          "address": "Skoura",
+          "description": "A beautiful palm grove offering scenic views and a chance to explore traditional Moroccan agriculture.",
+          "images": ["assets/images/ouarza3.jpg", "assets/images/ouarza1.jpg"],
+          "coordinates": {
+            "lat": 31.0625,
+            "lon": -6.5338
+          },
+          "isFavourite": false
+        }
+      ],
+      "restaurants": [
+        {
+          "id": 1,
+          "title": "Restaurant Douyria",
+          "country": "Morocco",
+          "address": "Avenue Mohammed V",
+          "description": "A cozy restaurant offering traditional Moroccan cuisine with a stunning view of the Taourirt Kasbah.",
+          "images": ["assets/images/ouarza1.jpg", "assets/images/ouarza2.jpg"],
+          "coordinates": {
+            "lat": 30.9191,
+            "lon": -6.9111
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Le Jardin des Aromes",
+          "country": "Morocco",
+          "address": "Avenue Al Maghreb Al Arabi",
+          "description": "A charming garden restaurant serving a mix of Moroccan and Mediterranean dishes.",
+          "images": ["assets/images/ouarza3.jpg", "assets/images/ouarza2.jpg"],
+          "coordinates": {
+            "lat": 30.9198,
+            "lon": -6.9117
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Chez Dimitri",
+          "country": "Morocco",
+          "address": "Rue du Marché",
+          "description": "A historic restaurant offering a fusion of Moroccan and European cuisine in a nostalgic setting.",
+          "images": ["assets/images/ouarza1.jpg", "assets/images/ouarza2.jpg"],
+          "coordinates": {
+            "lat": 30.9196,
+            "lon": -6.9123
+          },
+          "isFavourite": false
+        }
+      ],
+      "hotels": [
+        {
+          "id": 1,
+          "title": "Le Berbere Palace",
+          "country": "Morocco",
+          "address": "Quartier Mansour Eddahbi",
+          "description": "A luxurious hotel with traditional Moroccan architecture, featuring a spa, pool, and gourmet dining.",
+          "images": ["assets/images/ouarza1.jpg", "assets/images/ouarza2.jpg"],
+          "coordinates": {
+            "lat": 30.9161,
+            "lon": -6.9278
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Dar Chamaa",
+          "country": "Morocco",
+          "address": "Tajda",
+          "description": "A charming riad offering comfortable accommodations, a pool, and stunning views of the surrounding mountains.",
+          "images": ["assets/images/ouarza1.jpg", "assets/images/ouarza2.jpg"],
+          "coordinates": {
+            "lat": 30.9165,
+            "lon": -6.9375
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Riad Ouarzazate",
+          "country": "Morocco",
+          "address": "Quartier Tassoumaate",
+          "description": "A beautiful riad featuring traditional Moroccan decor, a pool, and exceptional hospitality.",
+          "images": ["assets/images/ouarza1.jpg", "assets/images/ouarza2.jpg"],
+          "coordinates": {
+            "lat": 30.9222,
+            "lon": -6.9136
+          },
+          "isFavourite": false
+        }
+      ],
+      "craftstores": [
+        {
+          "id": 1,
+          "title": "Cooperative Tissili",
+          "country": "Morocco",
+          "address": "Route de Zagora",
+          "description": "A craft store specializing in handmade Berber rugs and textiles, supporting local artisans.",
+          "images": ["assets/images/ouarza1.jpg", "assets/images/ouarza2.jpg"],
+          "coordinates": {
+            "lat": 30.9305,
+            "lon": -6.9171
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 2,
+          "title": "Galerie Tiwirga",
+          "country": "Morocco",
+          "address": "Rue de la Mosquée",
+          "description": "A store offering a variety of traditional Moroccan crafts, including pottery, jewelry, and textiles.",
+          "images": ["assets/images/ouarza1.jpg", "assets/images/ouarza2.jpg"],
+          "coordinates": {
+            "lat": 30.9265,
+            "lon": -6.9098
+          },
+          "isFavourite": false
+        },
+        {
+          "id": 3,
+          "title": "Maison de l'Artisan",
+          "country": "Morocco",
+          "address": "Avenue Mohammed V",
+          "description": "A government-run store showcasing high-quality Moroccan handicrafts from various regions.",
+          "images": ["assets/images/ouarza1.jpg", "assets/images/ouarza2.jpg"],
+          "coordinates": {
+            "lat": 30.92,
+            "lon": -6.9115
+          },
+          "isFavourite": false
+        }
+      ]
+    }
+  ]
+}

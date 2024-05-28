@@ -1,0 +1,6 @@
+{
+    "emulator.androidColdBoot": true,
+    "dart.flutterCustomEmulators": [
+        
+    ]
+}

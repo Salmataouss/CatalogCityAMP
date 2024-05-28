@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Vietnam",
+      "country": "Vietnam",
+      "address": "Southeast Asia",
+      "description": "Vietnam is a Southeast Asian country known for its beaches, rivers, mountains, and bustling cities. Hanoi, the capital, is home to French colonial architecture and the Ho Chi Minh Mausoleum. Ho Chi Minh City, formerly Saigon, has a War Remnants Museum and the Cu Chi Tunnels, a network of underground passages used by Viet Cong fighters during the Vietnam War.",
+      "images": [
+        "assets/images/vietnam1.jpg",
+        "assets/images/vietnam2.jpg",
+        "assets/images/vietnam3.jpg",
+        "assets/images/vietnam4.jpg"
+      ],
+      "coordinates": {
+        "lat": 14.0583,
+        "lon": 108.2772
+      },
+      "isFavourite": false
+    },
+    {
+      "id": 2,
+      "title": "Spain",
+      "country": "Spain",
+      "address": "South Europe",
+      "description": "Spain is a country on the Iberian Peninsula in southwestern Europe. It's known for its flamenco dance, tapas bars, and historic cities like Madrid, Barcelona, and Seville. Its Mediterranean coastline has beaches, mountains, and resorts. The country's rugged interior features medieval towns and the Pyrenees mountain range.",
+      "images": ["assets/images/spain1.jpg", "assets/images/spain2.jpg"],
+      "coordinates": {
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "isFavourite": false
+    },
+    {
+      "id": 3,
+      "title": "France",
+      "country": "France",
+      "address": "Western Europe",
+      "description": "France is a Western European country with a long Mediterranean coastline, dramatic Alpine mountains, and lingering influences from its Gallic and Roman past. Paris, its capital, is famous for its Eiffel Tower, the Louvre Museum, and Notre-Dame Cathedral. The country is also known for its wine regions, medieval towns, and Riviera beaches.",
+      "images": [
+        "assets/images/france1.jpg",
+        "assets/images/france2.jpg",
+        "assets/images/france3.jpg",
+        "assets/images/france4.jpeg"
+      ],
+      "coordinates": {
+        "lat": 46.6034,
+        "lon": 1.8883
+      },
+      "isFavourite": false
+    },
+    {
+      "id": 4,
+      "title": "Italy",
+      "country": "Italy",
+      "address": "Southern Europe",
+      "description": "Italy, a European nation, is a peninsula shaped like a boot. It's known for its art, culture, history, and delicious food. Rome, the capital, is home to the Vatican and iconic landmarks like the Colosseum and Trevi Fountain. Other major cities include Florence, with its Renaissance art and architecture, and Venice, famous for its canals and gondola rides.",
+      "capital": "Rome",
+      "images": [
+        "assets/images/italy1.jpg",
+        "assets/images/italy2.jpg",
+        "assets/images/italy3.jpg",
+        "assets/images/italy4.jpg"
+      ],
+      "coordinates": {
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "isFavourite": false
+    },
+    {
+      "id": 5,
+      "title": "Germany",
+      "country": "Germany",
+      "address": "Western Europe",
+      "description": "Germany is a Western European country with historic cities, scenic landscapes, and a vibrant art scene. Berlin, the capital, is famous for its Brandenburg Gate and Holocaust memorial. Munich, Bavaria's capital, is known for its Oktoberfest beer festival and Hofbräuhaus beer hall. Frankfurt is a major financial hub and home to the European Central Bank.",
+      "capital": "Berlin",
+      "images": ["assets/images/germany1.jpg", "assets/images/germany1.jpeg"],
+      "coordinates": {
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "isFavourite": false
+    }
+  ]
+}
